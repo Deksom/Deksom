@@ -7,4 +7,4 @@ Just diving into the world of Front-End development, and loving every bit of the
 
 I'm still learning and growing, but I'm motivated and ready to take on cool projects - from building landing pages to tweaking layouts or making designs come alive in code.
 
-When I'm not coding, I'm probably deep into some game🎮 or watching something on Netflix📺.
+ 
